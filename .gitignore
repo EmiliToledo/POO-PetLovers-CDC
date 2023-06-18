@@ -1,0 +1,41 @@
+# Arquivos de log
+logs
+*.log
+
+# Dependências
+node_modules/
+
+# Arquivos de build
+build/
+dist/
+out/
+
+# Arquivos de cache
+.cache/
+.npm/
+.pnp/
+yarn-error.log
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.swp
+*.bak
+*~
+
+# Arquivos de configuração específicos para o seu editor de código
+# Exemplo: Visual Studio Code
+.vscode/*
+
+# Arquivos gerados durante a execução do projeto
+.DS_Store
+Thumbs.db
