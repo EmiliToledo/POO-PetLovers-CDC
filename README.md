@@ -1,4 +1,28 @@
-# POO - PetLovers - Controle de Clientes
+
+<h1 align="center">
+    PetLovers - Gerenciamento de clientes para petshops
+</h1>
+
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EmiliToledo/POO-PetLovers-CDC">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EmiliToledo/POO-PetLovers-CDC">
+
+  <a href="https://www.codacy.com/app/EmiliToledo/POO-PetLovers-CDC?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=EmiliToledo/POO-PetLovers-CDC&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/430e60f15a4c484898f4cac9408ce90b">
+  </a>
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EmiliToledo/POO-PetLovers-CDC">
+  <a href="https://github.com/EmiliToledo/POO-PetLovers-CDC/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EmiliToledo/POO-PetLovers-CDC">
+  </a>
+
+  <a href="https://github.com/EmiliToledo/SIGA-Libs">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/EmiliToledo/POO-PetLovers-CDC">
+  </a>
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/EmiliToledo/POO-PetLovers-CDC">
+  </p>
 
 ## Participantes
 
